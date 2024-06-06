@@ -23,6 +23,7 @@ Pré-requisitos:
 
 Como Executar:
 
+- Obs: Lembrar de parar o serviço do MySql para não dar conflito. 
 - Clone o Repositório:
   - Bash git clone https://github.com/Mattuez/devopsTrabalhoFinal.git
 - Navegue até a Pasta do Projeto:
