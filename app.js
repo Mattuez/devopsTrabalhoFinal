@@ -4,7 +4,7 @@ const mysql = require('mysql2');
 const app = express();
 const port = 3000;
 
-app.use(express.json()); // Para analisar o corpo das requisições JSON
+app.use(express.json());
 
 const pool = mysql.createPool({
   host: process.env.MYSQL_HOST,
