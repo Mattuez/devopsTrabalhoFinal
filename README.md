@@ -24,9 +24,9 @@ Pré-requisitos:
 Como Executar:
 
 - Clone o Repositório:
-  - Bash git clone https://github.com/Mattuez/devopsDockerCompose.git
+  - Bash git clone https://github.com/Mattuez/devopsTrabalhoFinal.git
 - Navegue até a Pasta do Projeto:
-  - Bash cd devopsDockerCompose
+  - Bash cd devopsTrabalhoFinal
 - Inicie os Containers:
   - Bash docker-compose up -d --build
 
